@@ -13,7 +13,7 @@ const NavBar = () => {
                 <p>Resources</p>
             </div>
             <div>
-                <button className='bg-white rounded-xl text-[#004990] px-8 py-3'>Login</button>
+                <button className='hover:bg-transparent hover:text-white border border-white bg-white rounded-xl text-[#004990] px-8 py-3'>Login</button>
             </div>
         </div>
     </nav>
